@@ -1,0 +1,32 @@
+# style block
+user:
+  name: Edmilson Silva
+  location: Brazil
+  age: 20
+  phone: +55 71 923451233
+  email: hello@yaml.com
+  favoritesFoods:
+    - Pizza
+    - Hamburguer
+    - Sushi
+    - Brigadeiro
+    - Cachorro-quente
+  sports:
+    - Mountain Bike
+    - Run
+serverDiscord: Linux Forever
+systemOperation: Ubuntu 20.04 LTS
+
+# style flow
+
+user2: {
+  name: Edmilson Silva,
+  location: Brazil,
+  age2: 20,
+  phone: +55 71 923451233,
+  email: hello@yaml.com,
+  favoritesFoods: [ Pizza, Hamburguer, Sushi, Brigadeiro, Cachorro-quente ],
+  sports: [ Mountain Bike,  Run ],
+}
+serverDiscord2: Linux Forever
+systemOperation2: Ubuntu 20.04 LTS
